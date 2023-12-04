@@ -1,7 +1,6 @@
 import { useState, useEffect } from "react";
 import axios from "axios";
 
-
 const rapidApiKey = process.env.EXPO_PUBLIC_RAPID_API_KEY;
 
 const useFetch = (endpoint, query) => {
@@ -25,13 +24,12 @@ const useFetch = (endpoint, query) => {
         setIsLoading(true);
 
         try {
-            const reponse = await axios.request (options);
-
+            const reponse = await axios.request(options);
             setData(reponse.data.data);
             setIsLoading(false);
         } catch (error) {
             setError(error);
-            alert('There is an error');
+            alert('There is an error'); 
         } finally {
             setIsLoading(false);
         }
