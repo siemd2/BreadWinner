@@ -1,4 +1,6 @@
-# Expo Router Example
+# BreadWinner CPRG-303-Mobile App Dev Final Project
+
+Job finder application using JSearch API, has search and location functionality
 
 Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
 
