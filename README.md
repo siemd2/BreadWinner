@@ -39,11 +39,6 @@ Once you've launched Breadwinner on your device:
 3. Browse through the list of available jobs in your chosen category.
 4. Tap on a job to view more details and click apply if it is a good fit.
 
-
-## Contact 📬
-
-For any further questions, please reach out to me at siemadebesay@gmail.com.
-
 ## Screenshots 📸
 
 ### Home Screen
