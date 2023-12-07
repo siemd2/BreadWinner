@@ -11,7 +11,7 @@ const NearbyJobCard = ({ job, handleNavigate }) => {
           source={{
             uri: checkImageURL(job.employer_logo)
               ? job.employer_logo
-              : "https://t4.ftcdn.net/jpg/05/05/61/73/360_F_505617309_NN1CW7diNmGXJfMicpY9eXHKV4sqzO5H.jpg",
+              : "https://t3.ftcdn.net/jpg/03/66/65/76/360_F_366657624_SxrhX9R1WH7XlQ6usdltuPu9ND1s8PjQ.jpg",
           }}
           resizeMode='contain'
           style={styles.logImage}
