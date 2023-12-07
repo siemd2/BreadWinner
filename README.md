@@ -47,7 +47,7 @@ For any further questions, please reach out to me at siemadebesay@gmail.com.
 ## Screenshots 📸
 
 ### Home Screen
-<img src="screenshots/home.png" alt="Home Screen" width="30%" />
+<img src="screenshots/home.png" alt="Home Screen" width="100" />
 
 ### Job Details
 <img src="screenshots/job-details.png" alt="Job Details" width="30%" />
