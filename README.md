@@ -44,5 +44,18 @@ Once you've launched Breadwinner on your device:
 
 For any further questions, please reach out to me at siemadebesay@gmail.com.
 
-## Get a glimpse here
+## Screenshots 📸
+
+### Home Screen
+![Home Screen](screenshots/home.png)
+
+### Job Details
+![Job Details](screenshots/job-details.png)
+
+### Search Results for "Calgary Internships"
+![Job Search Results](screenshots/search-results.png)
+
+### After You Hit Apply
+![Apply](screenshots/apply.png)
+
 
