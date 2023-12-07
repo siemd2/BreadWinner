@@ -25,8 +25,9 @@ To run Breadwinner on your local machine, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Navigate to the project directory and run `npm install` to install all the necessary dependencies.
-3. Start the development server by running `npm start`.
-4. Open the Expo Go app on your mobile device and scan the QR code provided by the development server.
+3. Obtain a free JSearch API key online and store it in a .env file in the root directory as "EXPO_PUBLIC_RAPID_API_KEY=api_key".
+4. Start the development server by running `npm start`.
+5. Open the Expo Go app on your mobile device and scan the QR code provided in your terminal.
 
 Make sure you have `node`, `npm`, and `expo-cli` installed globally on your system before proceeding with the installation steps.
 
