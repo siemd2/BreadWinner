@@ -47,15 +47,16 @@ For any further questions, please reach out to me at siemadebesay@gmail.com.
 ## Screenshots 📸
 
 ### Home Screen
-![Home Screen](screenshots/home.png)
+<img src="screenshots/home.png" alt="Home Screen" width="30%" />
 
 ### Job Details
-![Job Details](screenshots/job-details.png)
+<img src="screenshots/job-details.png" alt="Job Details" width="30%" />
 
 ### Search Results for "Calgary Internships"
-![Job Search Results](screenshots/search-results.png)
+<img src="screenshots/search-results.png" alt="Job Search Results" width="30%" />
 
 ### After You Hit Apply
-![Apply](screenshots/apply.png)
+<img src="screenshots/apply.png" alt="Apply" width="30%" />
+
 
 
