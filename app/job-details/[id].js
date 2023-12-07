@@ -14,7 +14,6 @@ import {
   JobAbout,
   JobFooter,
   JobTabs,
-  ScreenHeaderBtn,
   Specifics,
 } from "../../components";
 import { COLORS, icons, SIZES } from "../../constants";
@@ -75,16 +74,6 @@ const JobDetails = () => {
           headerStyle: { backgroundColor: COLORS.lightWhite },
           headerShadowVisible: false,
           headerBackVisible: false,
-          headerLeft: () => (
-            <ScreenHeaderBtn
-              iconUrl={icons.left}
-              dimension='60%'
-              handlePress={() => router.back()}
-            />
-          ),
-          headerRight: () => (
-            <ScreenHeaderBtn iconUrl={icons.share} dimension='60%' />
-          ),
           headerTitle: "",
         }}
       />

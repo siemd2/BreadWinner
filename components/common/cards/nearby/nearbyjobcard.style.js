@@ -1,5 +1,4 @@
 import { StyleSheet } from "react-native";
-
 import { COLORS, SHADOWS, SIZES } from "../../../../constants";
 
 const styles = StyleSheet.create({
@@ -10,14 +9,14 @@ const styles = StyleSheet.create({
     flexDirection: "row",
     padding: SIZES.medium,
     borderRadius: SIZES.small,
-    backgroundColor: "#FFF",
+    backgroundColor: COLORS.white, // Changed to dark color for the card background
     ...SHADOWS.medium,
-    shadowColor: COLORS.white,
+    shadowColor: COLORS.gray, // Adjusted to a darker color for better visibility
   },
   logoContainer: {
     width: 50,
     height: 50,
-    backgroundColor: COLORS.white,
+    backgroundColor: COLORS.gray2, // Slightly lighter dark color for the logo background
     borderRadius: SIZES.medium,
     justifyContent: "center",
     alignItems: "center",
@@ -33,15 +32,16 @@ const styles = StyleSheet.create({
   jobName: {
     fontSize: SIZES.medium,
     fontFamily: "DMBold",
-    color: COLORS.primary,
+    color: COLORS.primary, // This stays the same, as primary is already an orange color
   },
   jobType: {
     fontSize: SIZES.small + 2,
     fontFamily: "DMRegular",
-    color: COLORS.gray,
+    color: COLORS.secondary, // Changed to a secondary orange for contrast against the dark theme
     marginTop: 3,
     textTransform: "capitalize",
   },
 });
 
 export default styles;
+
