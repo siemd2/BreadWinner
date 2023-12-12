@@ -1,6 +1,6 @@
 # Breadwinner 🍞 - Your Gateway to Employment Opportunities
 
-Welcome to Breadwinner, a React Native mobile application designed to streamline your job search process. Built with the powerful combination of React Native and Expo Go, this app leverages the JSearch API to provide you with real-time, curated job listings tailored to your search criteria. It collects job opportunities from multiple sources such as LinkedIn, Indeed and much more and puts them into one place for you.
+This is a mobile app made to streamline your job search process. Built with React Native and Expo Go, this app leverages the JSearch API to provide you with real-time, curated job listings tailored to your search criteria. It collects job opportunities from multiple sources such as LinkedIn, Indeed, etc. and puts them into one place for you.
 
 ## Features 🚀
 
